@@ -1,0 +1,1 @@
+# wechat-jsapi-ticket-cache
